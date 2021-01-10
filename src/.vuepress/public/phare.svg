@@ -1,0 +1,43 @@
+<svg width="700" height="700" viewBox="0 0 700 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="350.5" cy="444.5" r="232.5" fill="#FFF4DB" stroke="#4F5B93" stroke-width="18"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="235" y="233" width="230" height="360">
+<path d="M274.407 238.337C274.745 235.299 277.313 233 280.37 233H419.63C422.687 233 425.255 235.299 425.593 238.337L464.26 586.337C464.655 589.892 461.872 593 458.296 593H241.704C238.128 593 235.345 589.892 235.74 586.337L274.407 238.337Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="211" y="233" width="289" height="360" fill="white"/>
+<rect x="145.221" y="422.732" width="404.509" height="48.5411" transform="rotate(-24.3359 145.221 422.732)" fill="#4F5B93"/>
+<rect x="155.221" y="535.692" width="404.509" height="48.5411" transform="rotate(-24.3359 155.221 535.692)" fill="#4F5B93"/>
+<rect x="359" y="200.487" width="98.3899" height="415.811" transform="rotate(-6.70458 359 200.487)" fill="black" fill-opacity="0.06"/>
+</g>
+<path d="M243.938 585L282.16 241H417.84L456.062 585H243.938Z" stroke="#4F5B93" stroke-width="16"/>
+<mask id="path-8-inside-1" fill="white">
+<rect x="252" y="221" width="196" height="40" rx="6"/>
+</mask>
+<rect x="252" y="221" width="196" height="40" rx="6" fill="white" stroke="#4F5B93" stroke-width="28" mask="url(#path-8-inside-1)"/>
+<rect x="279" y="133" width="142" height="95" fill="white" stroke="#4F5B93" stroke-width="14"/>
+<mask id="path-10-inside-2" fill="white">
+<rect x="252" y="126" width="196" height="14" rx="6"/>
+</mask>
+<rect x="252" y="126" width="196" height="14" rx="6" fill="white" stroke="#4F5B93" stroke-width="14" mask="url(#path-10-inside-2)"/>
+<rect x="318.5" y="217.5" width="74" height="7" transform="rotate(-90 318.5 217.5)" fill="white" stroke="#4F5B93" stroke-width="7"/>
+<rect x="372.5" y="217.5" width="74" height="7" transform="rotate(-90 372.5 217.5)" fill="white" stroke="#4F5B93" stroke-width="7"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="231" y="16" width="229" height="110">
+<rect x="231" y="16" width="229" height="110" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask1)">
+<circle cx="350" cy="151" r="72.5" fill="#FF511B" stroke="#4F5B93" stroke-width="15"/>
+<rect x="346.5" y="76.5" width="15" height="7" rx="3.5" transform="rotate(-90 346.5 76.5)" fill="#4F5B93" stroke="#4F5B93" stroke-width="7"/>
+</g>
+<rect x="159" y="162" width="72" height="4" rx="2" fill="white" stroke="#FFD67C" stroke-width="4"/>
+<rect x="144" y="178" width="72" height="4" rx="2" fill="white" stroke="#FFD67C" stroke-width="4"/>
+<rect x="159" y="194" width="72" height="4" rx="2" fill="white" stroke="#FFD67C" stroke-width="4"/>
+<rect x="-2" y="2" width="72" height="4" rx="2" transform="matrix(-1 0 0 1 537 160)" fill="white" stroke="#FFD67C" stroke-width="4"/>
+<rect x="-2" y="2" width="72" height="4" rx="2" transform="matrix(-1 0 0 1 552 176)" fill="white" stroke="#FFD67C" stroke-width="4"/>
+<rect x="-2" y="2" width="72" height="4" rx="2" transform="matrix(-1 0 0 1 537 192)" fill="white" stroke="#FFD67C" stroke-width="4"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="127" y="221" width="447" height="447">
+<circle cx="350.5" cy="444.5" r="214.5" fill="#868EB1" stroke="#4F5B93" stroke-width="18"/>
+</mask>
+<g mask="url(#mask2)">
+<path d="M580 713.5V569C580 569 519.5 542.999 465.75 569C412 595 394.5 556 352 556C309.5 556 278.5 594.499 236.5 569C194.5 543.5 137 569 137 569V713.5H580Z" fill="#63CBEC" stroke="#4F5B93" stroke-width="10"/>
+</g>
+</svg>

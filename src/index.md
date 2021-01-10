@@ -1,15 +1,8 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: The Phare documentation
+heroImage: /phare.svg
+tagline: Enlightened code architecture supervisor
 actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Nicolas Beauvais with ❤️
+actionLink: /documentation/installation.html
+footer: MIT License | Maintained by Nicolas Beauvais and contributors️.
 ---
