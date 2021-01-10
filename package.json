@@ -1,0 +1,19 @@
+{
+  "name": "phare-documentation",
+  "version": "0.0.1",
+  "description": "The Phare documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "Nicolas Beauvais",
+    "email": "nicolas@bvs.email"
+  },
+  "repository": "phare/phare-documentation/phare-documentation",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
